@@ -6,3 +6,6 @@ body {
     margin: 100px;
     vertical-align: auto;
 }
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
